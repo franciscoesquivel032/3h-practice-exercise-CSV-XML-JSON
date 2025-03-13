@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapperPruebas>
+    <Cursos>
+        <Curso id="1">
+            <Nivel>Prueba de nivel - Para cursos segundo cuatrimestre</Nivel>
+            <ID>A15050163</ID>
+            <Titulo>Alemán - Prueba de nivel - Para cursos segundo cuatrimestre</Titulo>
+            <InicioImparticion>2015-01-09T00:00</InicioImparticion>
+            <FinImparticion>2015-02-06T00:00</FinImparticion>
+            <Horas>2</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050163/aleman-prueba-de-nivel-para-cursos-segundo-cuatrimestre</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="2">Reinhard Dlugay</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="3">
+            <Nivel>Prueba de nivel - Para cursos segundo cuatrimestre</Nivel>
+            <ID>A15050167</ID>
+            <Titulo>Español - Prueba de nivel - Para cursos segundo cuatrimestre</Titulo>
+            <InicioImparticion>2015-01-09T00:00</InicioImparticion>
+            <FinImparticion>2015-02-05T00:00</FinImparticion>
+            <Horas>2</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050167/espa-ol-prueba-de-nivel-para-cursos-segundo-cuatrimestre</URL>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="4">Beatriz Hernández Bravo</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="5">
+            <Nivel>Prueba de nivel - Para cursos segundo cuatrimestre</Nivel>
+            <ID>A15050162</ID>
+            <Titulo>Francés - Prueba de nivel - Para cursos segundo cuatrimestre</Titulo>
+            <InicioImparticion>2015-01-07T00:00</InicioImparticion>
+            <FinImparticion>2015-02-05T00:00</FinImparticion>
+            <Horas>1</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050162/frances-prueba-de-nivel-para-cursos-segundo-cuatrimestre</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="6">Marie-Morgane Le Folgoc</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="7">
+            <Nivel>Prueba de nivel - para cursos de Inglés para la Docencia y preparatorio de GESE Trinity</Nivel>
+            <ID>A15050182</ID>
+            <Titulo>Inglés - Prueba de nivel - para cursos de Inglés para la Docencia y preparatorio de GESE Trinity</Titulo>
+            <InicioImparticion>2015-02-10T00:00</InicioImparticion>
+            <FinImparticion>2015-03-03T00:00</FinImparticion>
+            <Horas>4</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050182/ingles-prueba-de-nivel-para-cursos-de-ingles-para-la-docencia-y-preparatorio-de-gese-trinity</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="8">María Luisa Capón Mouriz</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="9">
+            <Nivel>Prueba de nivel - Para cursos segundo cuatrimestre</Nivel>
+            <ID>A15050007</ID>
+            <Titulo>Inglés - Prueba de nivel - Para cursos segundo cuatrimestre</Titulo>
+            <InicioImparticion>2015-01-09T00:00</InicioImparticion>
+            <FinImparticion>2015-02-12T00:00</FinImparticion>
+            <Horas>3</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050007/ingles-prueba-de-nivel-para-cursos-segundo-cuatrimestre</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="10">María Luisa Capón Mouriz</Profesor>
+                <Profesor id="11">Richard James Murison</Profesor>
+                <Profesor id="12">María Isabel Rodríguez Rodríguez</Profesor>
+                <Profesor id="13">Beatriz Freire Betancor</Profesor>
+                <Profesor id="14">Peggy Gerd Henriksson Carlsson</Profesor>
+                <Profesor id="15">Eva Miriam Amaral Ribeiro Sampaio de Andrade</Profesor>
+                <Profesor id="16">Marta María González Orta</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="17">
+            <Nivel>Prueba de nivel - Para preparatorios del FCE/CAE/CPE/IELTS</Nivel>
+            <ID>A15050166</ID>
+            <Titulo>Inglés - Prueba de nivel - Para preparatorios del FCE/CAE/CPE/IELTS</Titulo>
+            <InicioImparticion>2015-01-12T00:00</InicioImparticion>
+            <FinImparticion>2015-02-04T00:00</FinImparticion>
+            <Horas>1</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050166/ingles-prueba-de-nivel-para-preparatorios-del-fce-cae-cpe-ielts</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="18">Clive Tyrell</Profesor>
+            </Profesorado>
+        </Curso>
+        <Curso id="19">
+            <Nivel>Prueba de nivel - Para cursos segundo cuatrimestre</Nivel>
+            <ID>A15050164</ID>
+            <Titulo>Italiano - Prueba de nivel - Para cursos segundo cuatrimestre</Titulo>
+            <InicioImparticion>2015-01-12T00:00</InicioImparticion>
+            <FinImparticion>2015-02-09T00:00</FinImparticion>
+            <Horas>2</Horas>
+            <URL>https://sede.fg.ull.es/es/idioma/detalle/A15050164/italiano-prueba-de-nivel-para-cursos-segundo-cuatrimestre</URL>
+            <TipoFormacion>Presencial</TipoFormacion>
+            <Categoria>Zona Metropolitana</Categoria>
+            <Profesorado>
+                <Profesor id="20">Nicola Cataldo</Profesor>
+            </Profesorado>
+        </Curso>
+    </Cursos>
+</wrapperPruebas>
